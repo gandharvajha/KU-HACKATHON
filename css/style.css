@@ -14096,3 +14096,20 @@ html:not(.ie-11):not(.ios) .parallax-disabled {
 a.icon.icon-rect.icon-xs.icon-white.fa-instagram.text-dark:hover {
     color: #ffffff !important;
 }
+.four_div{
+	
+    
+}
+.four_div .col-sm-10.col-md-6.col-lg-6 button{
+	background-image: linear-gradient(to right, #822ea8 0%, #d90e90 100%);
+	color:#ffffff;
+	padding: 12px 15px;
+	font-size: 18px;
+	border:none;
+	width:300px;
+}
+@media screen and (min-width: 720px) and (max-width: 1024px){
+	.four_div .col-sm-10.col-md-6.col-lg-6 button{
+		width:250px;
+	}
+  }
