@@ -14113,3 +14113,11 @@ a.icon.icon-rect.icon-xs.icon-white.fa-instagram.text-dark:hover {
 		width:250px;
 	}
   }
+  .brand .brand-logo-light{
+	max-width: 75% !important;
+}
+  @media screen and (min-width: 320px) and (max-width: 768px){
+	.brand .brand-logo-light{
+		max-width: 45% !important;
+	}
+  }
