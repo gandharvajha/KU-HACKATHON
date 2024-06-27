@@ -14093,3 +14093,6 @@ html:not(.ie-11):not(.ios) .parallax-disabled {
 	transform: rotate(-9deg) scale(1.03);
 	pointer-events: none;
 }
+a.icon.icon-rect.icon-xs.icon-white.fa-instagram.text-dark:hover {
+    color: #ffffff !important;
+}
